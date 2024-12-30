@@ -1,0 +1,11 @@
+commit cb69045554303f49ad58e931198b9aeff3271e8e (HEAD -> main)
+Author: kaori0124 <gyayukyo0124@gmail.com>
+Date:   Sun Dec 29 07:39:26 2024 +0900
+
+    日本語訳を追加
+
+commit de69694ecefd38fb7fc31fecdebe101da27bb8ea
+Author: kaori0124 <gyayukyo0124@gmail.com>
+Date:   Sun Dec 29 07:32:57 2024 +0900
+
+    hello_world.txtを追加
